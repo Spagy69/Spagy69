@@ -4,7 +4,7 @@ I am a  Developer from the **Czech Republic**, also known online as **Spagy**. I
 
 ## Skills
 ### Languages
-[![Skills](https://skillicons.dev/icons?i=cs,py,html,css,md#)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,py,js,html,css,md#)](https://skillicons.dev)
 
 ### Tools and other stuff
 [![Skills](https://skillicons.dev/icons?i=windows,linux,visualstudio,vscode,unity,arduino,cloudflare,ps,blender,github,git)](https://skillicons.dev)
