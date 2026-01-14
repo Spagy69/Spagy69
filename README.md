@@ -11,9 +11,9 @@ I am a  Developer from the **Czech Republic**, also known online as **Spagy**. I
 
 ## Statistics
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=spagy69&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats-rouge-xi-22.vercel.app/api?username=spagy69&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spagy69&theme=radical&layout=compact&hide=perl&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats-rouge-xi-22.vercel.app/api/top-langs/?username=spagy69&theme=radical&layout=compact&hide=perl&hide_border=true" height="180px"/>
 </div>
 
 ## Website
