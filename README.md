@@ -16,9 +16,5 @@ I am a  Developer from the **Czech Republic**, also known online as **Spagy**. I
   <img src="https://github-readme-stats-rouge-xi-22.vercel.app/api/top-langs/?username=spagy69&theme=radical&layout=compact&hide=perl&hide_border=true" height="180px"/>
 </div>
 
-## Website
-- https://spagetak.com
-
 ## Contact
-- Email: spagy@spagetak.com
-- Business: vit.machac@spagetak.com
+- Email: lagy.spagy@gmail.com
